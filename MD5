@@ -1,0 +1,13 @@
+c66c4eaa7ce3ae55761e41ac14afc9a5 *DESCRIPTION
+113616f94a1e32fe90fac9690572d537 *LICENSE
+8a069467e19a08e7a381a4afbeb78d79 *NAMESPACE
+6a0c0d113ae081bd7337464294b86f1d *R/check.R
+e5c46a23c555793285b0baeb7dc9e903 *R/cppXPtr.R
+582489a967b98f4ff383a9450fd3d036 *R/print.R
+0143701eba22575921648356d4cd777e *R/regex.R
+4b9dfeafbc01894a60bb0ed74970d3a0 *README.md
+f364cda3798c0646bd118675685ec9f2 *man/checkXPtr.Rd
+c536ac938ba966fc229867c11ac6ac3b *man/cppXPtr.Rd
+8d5b818cee27690bf6b04ab095b7185b *tests/testthat.R
+e69d7051ced19862ba8ce2fea6b23c81 *tests/testthat/test-check.R
+a211c8187fa4650aa67927ebc2afa272 *tests/testthat/test-regex.R
